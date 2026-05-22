@@ -1,18 +1,48 @@
 # Portafolio ASIR - Ángel Pacheco
 
-Administrador de sistemas en formación con enfoque en redes y ciberseguridad (Blue Team).
+Administrador de Sistemas (ASIR) orientado a infraestructura, redes y ciberseguridad defensiva (Blue Team).
 
-## Proyectos
-
-- Active Directory + GPO + SMB
-- Redes con VLANs y pfSense
-- Monitorización y logs
-- Backup empresarial
-
-## Tecnologías
+## Tecnologías trabajadas
 
 - Windows Server
-- Linux
 - Active Directory
+- pfSense
+- VMware ESXi
+- OpenVPN
 - DNS / DHCP
+- SMB / NTFS
+- PowerShell
 - Virtualización
+- Redes y segmentación
+- Backup & Disaster Recovery
+
+## Proyectos destacados
+
+### Backup & Disaster Recovery Infrastructure
+Infraestructura de copias de seguridad y recuperación ante desastres con Windows Server, pfSense, OpenVPN y segmentación de red.
+
+Repositorio:
+LINK
+
+---
+
+### VMware ESXi Standalone Lab
+Laboratorio VMware ESXi standalone con hosts ESXi, redes virtuales, snapshots y troubleshooting.
+
+Repositorio:
+LINK
+
+## Certificaciones y formación
+
+- Cisco CCNA: Introducción a Redes
+- Cisco CCNA: Switching, Routing and Wireless Essentials
+- Cisco CCNA: Enterprise Networking, Security and Automation (en curso)
+
+## Objetivo profesional
+
+Interés profesional orientado a:
+- administración de sistemas;
+- redes;
+- infraestructura;
+- ciberseguridad defensiva;
+- Blue Team.
