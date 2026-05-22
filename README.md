@@ -22,7 +22,7 @@ Administrador de Sistemas (ASIR) orientado a infraestructura, redes y cibersegur
 Infraestructura de copias de seguridad y recuperación ante desastres con Windows Server, pfSense, OpenVPN y segmentación de red.
 
 Repositorio:
-LINK
+https://github.com/aPacheco-98/asir-backup-dr-windows-server
 
 ---
 
@@ -30,7 +30,7 @@ LINK
 Laboratorio VMware ESXi standalone con hosts ESXi, redes virtuales, snapshots y troubleshooting.
 
 Repositorio:
-LINK
+https://github.com/aPacheco-98/vmware-esxi-standalone-lab
 
 ## Certificaciones y formación
 
