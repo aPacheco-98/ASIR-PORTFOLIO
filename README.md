@@ -32,6 +32,15 @@ Laboratorio VMware ESXi standalone con hosts ESXi, redes virtuales, snapshots y 
 Repositorio:
 https://github.com/aPacheco-98/vmware-esxi-standalone-lab
 
+---
+
+### SysAdmin Multiboot USB
+Pendrive multiboot basado en Ventoy con sistemas operativos, plataformas de virtualización, herramientas de recuperación y laboratorio orientado a administración de sistemas, redes y ciberseguridad.
+
+Repositorio:
+https://github.com/aPacheco-98/sysadmin-multiboot-usb
+
+
 ## Certificaciones y formación
 
 - Cisco CCNA: Introducción a Redes
